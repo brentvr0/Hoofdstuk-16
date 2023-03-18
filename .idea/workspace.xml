@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e98b7ea9-f576-4d8d-9109-4165f275d515" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2N8w2QF9G5iybvQvygK2HipQkXW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/hoge school/1ste bachelor/2de semester/web deel 2/oplossing/les 6/oplossing 1-5 colorpicker uitbreiding/oplossing colorpicker uitbreiding - 05 bugfix met stop propagation" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gebruiker\OneDrive\Documents\hogeschool\Bachelor\2de jaar\semester 2\web 1\oefeningen\les 6\Demo's" />
+      <recent name="C:\Users\gebruiker\OneDrive\Documents\hogeschool\Bachelor\2de jaar\semester 2\web 1\oefeningen\les 6\4" />
+      <recent name="C:\Users\gebruiker\OneDrive\Documents\hogeschool\Bachelor\2de jaar\semester 2\web 1\oefeningen\les 6" />
+      <recent name="C:\Users\gebruiker\OneDrive\Documents\hogeschool\Bachelor\2de jaar\semester 2\web 1\oefeningen\les 6\Demo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e98b7ea9-f576-4d8d-9109-4165f275d515" name="Changes" comment="" />
+      <created>1679058809417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679058809417</updated>
+      <workItem from="1679058810834" duration="8348000" />
+      <workItem from="1679133505154" duration="2721000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
